@@ -6,6 +6,7 @@ This project implements Hardy–Weinberg Equilibrium in Python to compute allele
 - Calculates p and q from input genotype counts
 - Computes expected genotype frequencies (p², 2pq, q²)
 - Visualizes results using simple plots
+- Chi- square test
 
 ## Requirements
 - Python 3.x
